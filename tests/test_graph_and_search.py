@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import pytest
 
-from flight_planner import (
+from src.flight_planner import (
     Flight,
     Itinerary,
     build_graph,
